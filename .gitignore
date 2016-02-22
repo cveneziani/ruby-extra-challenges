@@ -1,0 +1,6 @@
+# SQL
+02-sql/db/games-ruby.db
+02-sql/db/games-sql.db
+
+# ActiveRecord
+03-active-record/db/development.sqlite3
