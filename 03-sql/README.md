@@ -15,7 +15,6 @@ So:
 
 => Use db.lewagon.org to create a diagram (CDM Conceptual Data Model) of your tables
 
-
 ### Insert
 
 - Create a database (touch db/games-sql.db) and open it (sqlite3 db/games-sql.db)
@@ -33,7 +32,6 @@ So:
 - Find the game names that are associated to the second category
 
 - [tricky] Return the average ranking of all the games
-
 
 
 ## Step 2 - Ruby
